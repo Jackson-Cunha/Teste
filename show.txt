@@ -1,3 +1,8 @@
 deve ser comitado
+<<<<<<< HEAD
+parte dois
+parte
+=======
 parte dois 123
 parte três.
+>>>>>>> fe3f6bcf3676fb2225748c3074bf22dfc1591269
