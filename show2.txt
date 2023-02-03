@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+parte quatro 12345
+=======
 parte quatro 1234
+>>>>>>> fe3f6bcf3676fb2225748c3074bf22dfc1591269
